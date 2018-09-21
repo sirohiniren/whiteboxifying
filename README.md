@@ -1,5 +1,5 @@
 # whiteboxifying
-validating and understanding ML algos--techniques (Dan from Kaggle)
+validating and understanding ML algos--techniques (sourced from Dan from Kaggle)
 
 ## Permutation Importance
 tells us which features are more or less important 
