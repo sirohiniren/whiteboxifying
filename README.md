@@ -9,3 +9,6 @@ tell us how the features impact the outcome variable
 
 ## SHAP values
 tell us for a single observation how the features contribute to the final value
+
+## SHAP aggregations and dependence plots
+show us an aggregated view across observations and add interaction information to Partial Dependence Plots
